@@ -1,11 +1,11 @@
 # Decision Tree & Random Forest Classifier - Heart Disease Dataset
 
-## 🎯 Objective
+## Objective
 Build and evaluate machine learning models using **Decision Tree** and **Random Forest** classifiers to detect the presence of heart disease.
 
 ---
 
-## 🧪 Steps Performed
+##  Steps Performed
 
 - Installed and imported required libraries.
 - Uploaded and loaded the dataset (`heart.csv`) using `Google Colab` file upload.
@@ -24,7 +24,7 @@ Build and evaluate machine learning models using **Decision Tree** and **Random 
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Python
 - Pandas
@@ -37,7 +37,7 @@ Build and evaluate machine learning models using **Decision Tree** and **Random 
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 - **Accuracy Score**
 - **Confusion Matrix**
@@ -47,7 +47,7 @@ Build and evaluate machine learning models using **Decision Tree** and **Random 
 
 ---
 
-## 🔍 Key Takeaways
+##  Key Takeaways
 
 - **Decision Trees** are interpretable and easy to visualize but prone to overfitting.
 - **Random Forests**, being an ensemble of trees, reduce overfitting and improve performance.
@@ -57,11 +57,11 @@ Build and evaluate machine learning models using **Decision Tree** and **Random 
 
 ---
 
-## 📁 Dataset
+##  Dataset
 The dataset used is `heart.csv`, containing patient attributes such as:
 - Age, Sex, Cholesterol, Blood Pressure, Chest Pain Type, etc.
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 Tree-based models like Decision Trees and Random Forests are powerful for structured classification tasks. This notebook demonstrates both training and evaluation with a focus on interpretability and performance.
